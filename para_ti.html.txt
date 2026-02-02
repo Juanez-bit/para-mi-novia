@@ -1,0 +1,44 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Para ti ❤️</title>
+    <style>
+        body {
+            background-color: #ffe6f0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            color: #ff3366;
+        }
+        p {
+            font-size: 20px;
+            color: #333;
+            width: 60%;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>💕 Para ti, mi amor 💕</h1>
+
+    <p>
+        Quise hacerte algo diferente.<br><br>
+        No es solo un mensaje,  
+        es algo que hice mientras aprendo a programar  
+        y pensé en ti todo el tiempo ❤️<br><br>
+
+        Gracias por estar conmigo,<br>
+        por apoyarme y por ser tú.<br><br>
+
+        Te quiero mucho 💖<br><br>
+        — Juanes
+    </p>
+
+</body>
+</html>
